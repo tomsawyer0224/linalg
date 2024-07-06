@@ -38,7 +38,7 @@ int main(){
 	cout<<v61 + 10;
 	cout<<"20 + v62 ="<<endl;
 	cout<<20 + v62;
-return 0;
+	return 0;
 }
 
 ```
