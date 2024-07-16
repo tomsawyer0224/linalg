@@ -1,10 +1,8 @@
 # This is a personal project, for educational purposes only!
-
 # About this project:
-  1. A C/C++ linear algebra project.
-  2. Implements simple operations like maxtrix/vector addition, multiplication,... Other operations like det, inv, etc. may be implemented later.
-  3. The code is naive and non-optimized.
-
+1. A C/C++ linear algebra project.
+2. Implements simple operations like maxtrix/vector addition, multiplication,... Other operations like det, inv, etc. may be implemented later.
+3. The code is naive and non-optimized.
 # How to use:
 ```
 #include <iostream>
