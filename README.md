@@ -2,7 +2,7 @@
 This is a C/C++ project that helps understand the fundamentals of Linear Algebra.
 # About this project
 - This is a personal project, for educational purposes only!
-- Implements simple operations like maxtrix/vector addition, multiplication,... Other operations like det, inv, etc. may be implemented later.
+- This project implements some simple operations like maxtrix/vector addition, multiplication,... Other operations like det, inv, etc. may be implemented later.
 - The code is naive and non-optimized.
 # How to use
 1. Clone this repo.
